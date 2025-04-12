@@ -1,4 +1,4 @@
-# Welcome to your  project
+# Welcome to the Bank Code Compass  project
 
 ## Project info
 
